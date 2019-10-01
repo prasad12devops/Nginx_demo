@@ -7,3 +7,4 @@ VOLUME /var/log/nginx/log
 EXPOSE 90
 STOPSIGNAL SIGTERM
 CMD ["nginx", "-g", "daemon off;"]
+CMD 
