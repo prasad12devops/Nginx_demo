@@ -1,0 +1,2 @@
+FROM JAVA
+COPY /yxz/xysd
