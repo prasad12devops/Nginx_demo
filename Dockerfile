@@ -1,4 +1,4 @@
-FROM nginx1
+FROM nginx12
 COPY content /usr/share/nginx/html
 COPY conf /etc/nginx
 VOLUME /usr/share/nginx/html
